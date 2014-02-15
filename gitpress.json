@@ -13,7 +13,7 @@
 ".*" : "text"
 },
 "title" : "Zoe's Blog",
-"comment"  : "on",
+"comment"  : {"type": "duoshuo", "short_name":"zt1991616"},
 "description" : "仔仔的私人博客",
 "friends" : [
 {
