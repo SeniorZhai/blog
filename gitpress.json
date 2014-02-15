@@ -1,0 +1,30 @@
+{
+"docs" : {	
+		"Android":"posts/Android",
+		"杂笔":"posts/杂笔",
+		"关于我的博客":"README.md"
+	},
+"perpage" : 10,
+"template"  : "pithiness",
+"types" : {
+"\\.(md||markdown)$" : "markdown",
+"\\.(js||css||json)$" : "code",
+"\\.html?$" : "html",
+".*" : "text"
+},
+"title" : "Zoe's Blog",
+"comment"  : "on",
+"description" : "仔仔的私人博客",
+"friends" : [
+{
+"name" : "github",
+"title" : "github",
+"url" : "http://github.com"
+},
+{
+"name" : "gitpress",
+"title" : "gitpress",
+"url" : "http://gitpress.org"
+}
+]
+}
