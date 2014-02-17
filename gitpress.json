@@ -1,6 +1,7 @@
 {
 "docs" : {	
 		"Android":"posts/Android",
+		"iOS":"posts/iOS",
 		"杂笔":"posts/杂笔",
 		"关于我的博客":"README.md"
 	},
