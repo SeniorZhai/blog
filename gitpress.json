@@ -4,6 +4,7 @@
 		"关于我的博客":"README.md",
 		"iOS":"posts/iOS",
 		"杂笔":"posts/杂笔",
+		"Cocos2d-x":"posts/Cocos2d-x",
 	},
 "perpage" : 10,
 "template"  : "pithiness",
