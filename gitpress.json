@@ -2,7 +2,6 @@
 "docs" : {	
 		"Android":"posts/Android",
 		"iOS":"posts/iOS",
-		"杂笔":"posts/杂笔",
 		"Python":"posts/Python",
 		"Cocos2d-x":"posts/Cocos2d-x",
 	},
