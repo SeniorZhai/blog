@@ -4,6 +4,7 @@
 		"iOS":"posts/iOS",
 		"Python":"posts/Python",
 		"Cocos2d-x":"posts/Cocos2d-x",
+		"杂笔":"posts/杂笔",
 	},
 "perpage" : 10,
 "template"  : "pithiness",
