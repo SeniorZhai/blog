@@ -4,7 +4,6 @@
 		"iOS":"posts/iOS",
 		"Python":"posts/Python",
 		"Cocos2d-x":"posts/Cocos2d-x",
-		"Node":"posts/Node_js",
 		"Prose":"posts/Prose",
 	},
 "perpage" : 10,
