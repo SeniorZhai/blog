@@ -4,10 +4,11 @@
 		"iOS":"posts/iOS",
 		"Python":"posts/Python",
 		"Cocos2d-x":"posts/Cocos2d-x",
-		"Prose":"posts/Prose",
+		"Prose": "posts/Prose",
+		"NodeJS": "posts/NodeJS"
 	},
 "perpage" : 10,
-"template"  : "pithiness",
+"template"  : "slate",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
 "\\.(js||css||json)$" : "code",
