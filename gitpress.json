@@ -1,5 +1,5 @@
 {
-"docs" : {	
+"docs" : {
 		"Android":"posts/Android",
 		"iOS":"posts/iOS",
 		"Python":"posts/Python",
@@ -8,10 +8,10 @@
 		"NodeJS":"posts/NodeJS"
 	},
 "perpage" : 10,
-"template"  : "slate",
+"template"  : "tactile",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
-"\\.(js||css||json)$" : "code",
+"\\.(js||json||java||c||py||cpp||m):code",
 "\\.html?$" : "html",
 ".*" : "text"
 },
