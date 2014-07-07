@@ -1,28 +1,31 @@
 {
-"docs" : {
-		"Android":"posts/Android",
-		"iOS":"posts/iOS",
-		"Python":"posts/Python",
-		"Cocos2d-x":"posts/Cocos2d-x",
-		"Prose":"posts/Prose",
-		"NodeJS":"posts/NodeJS"
-	},
-"perpage" : 10,
-"template"  : "tactile",
-"types" : {
-"\\.(md||markdown)$" : "markdown",
-"\\.(js||json||java||c||py||cpp||m):code",
-"\\.html?$" : "html",
-".*" : "text"
-},
-"title" : "Zoe's Blog",
-"comment"  : {"type": "duoshuo", "short_name":"zt1991616"},
-"description" : "仔仔的私人博客",
-"friends" : [
-{
-"name" : "github",
-"title" : "github",
-"url" : "http://github.com"
-},
-]
+    "docs": {
+        "Android": "posts/Android",
+        "iOS": "posts/iOS",
+        "Python": "posts/Python",
+        "Cocos2d-x": "posts/Cocos2d-x",
+        "Prose": "posts/Prose",
+        "NodeJS": "posts/NodeJS"
+    },
+    "perpage": 10,
+    "template": "tactile",
+    "types": {
+        "\\.(md||markdown)$": "markdown",
+        "\\.(js||json||java||c||py||cpp||m)": "code",
+        "\\.html?$": "html",
+        ".*": "text"
+    },
+    "title": "Zoe'sBlog",
+    "comment": {
+        "type": "duoshuo",
+        "short_name": "zt1991616"
+    },
+    "description": "仔仔的私人博客",
+    "friends": [
+        {
+            "name": "github",
+            "title": "github",
+            "url": "http://github.com"
+        }
+    ]
 }
