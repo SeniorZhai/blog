@@ -8,7 +8,7 @@
         "NodeJS": "posts/NodeJS"
     },
     "perpage": 10,
-    "template": "pithiness",
+    "template": "phase",
     "types": {
         "\\.(md||markdown)$": "markdown",
         "\\.(js||json||java||c||py||cpp||m)": "code",
